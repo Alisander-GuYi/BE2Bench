@@ -1,6 +1,6 @@
 # BE2Bench
 BE$^2$Bench is a Comprehensive and Open-access Benchmark for Knowledge Evaluation of Large Language Models in the Building Energy and Environment Domain
-**BE²Bench** is an open-access benchmark dataset for knowledge evaluation of Large Language Models (LLMs) in the **Building Energy and Environment** domain. It contains **1,475 questions** selected from a large raw question pool, covering nearly all major knowledge clusters of a million-node building science knowledge graph.
+**BE²Bench** is an open-access benchmark dataset for knowledge evaluation of Large Language Models (LLMs) in the **Building Energy and Environment** domain. It contains **1490 questions** selected from a large raw question pool, covering nearly all major knowledge clusters of a million-node building science knowledge graph.
 
 The full dataset is provided as a single Excel file: **[`BE2Bench.xlsx`](BE2Bench.xlsx)**.
 
@@ -12,7 +12,7 @@ The full dataset is provided as a single Excel file: **[`BE2Bench.xlsx`](BE2Benc
 
 ### File
 
-`BE2Bench.xlsx` — one sheet, 1475 rows plus a header row.
+`BE2Bench.xlsx` — one sheet, 1490 rows plus a header row.
 
 ### Columns
 
